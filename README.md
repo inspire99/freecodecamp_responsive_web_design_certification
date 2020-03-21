@@ -14,4 +14,5 @@ Project for freecodecamp - Responsive Web Design Certification
 10. 10. Ordered list can be created using `<ol>` element and `<li>` elements can be nested within that
 11. 11. Text field input from user,  can be created using `<input type="text">`
 12. 12. text field can have a `placeholder` attribute, which contains default text value, which can be overwritten by user input
+13. 13. form elements accepts user input and submits data to the server. form elements can have attribute as `action`, which submits data to the server. The value of `action` attribute is url within the server.
 
