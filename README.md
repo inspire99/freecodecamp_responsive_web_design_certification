@@ -20,4 +20,5 @@ Project for freecodecamp - Responsive Web Design Certification
 16. 16. we can create radio buttons using `<input type="radio>` and a pair of radio buttons can be grouped, by sharing same `name` attribute. And `<label>` element can have the text corresponding to that radio button.
 17. 17. set of checkboxes can be grouped with `name` attribute and `<label>` element can give text for checkbox.
 18. 18. `value` attribute for radiobutton and checkbox contains the value which is actually sent to the server, when the user clicks submit button.
+19. 19. use `checked` attribute for radio and checkbox, to select these radiobutton / checkbox by default, without user input
 
