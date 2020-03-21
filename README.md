@@ -10,4 +10,5 @@ Project for freecodecamp - Responsive Web Design Certification
 6.  6. nesting of anchor element within a paragraph element is possible 
 7.  7. dead links by using `#` symbol in `href` attribute's value
 8.  8. an image can be turned into link, if its tested inside anchor element and `href` value should be `#`
+9.  9. bulleted style list using `<li>` nested with `<ul>` element , which is basically unordered list
 
