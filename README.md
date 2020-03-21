@@ -21,4 +21,5 @@ Project for freecodecamp - Responsive Web Design Certification
 17. 17. set of checkboxes can be grouped with `name` attribute and `<label>` element can give text for checkbox.
 18. 18. `value` attribute for radiobutton and checkbox contains the value which is actually sent to the server, when the user clicks submit button.
 19. 19. use `checked` attribute for radio and checkbox, to select these radiobutton / checkbox by default, without user input
+20. 20. `div` element can group set of elements. division. It is like a container of other elements.
 
