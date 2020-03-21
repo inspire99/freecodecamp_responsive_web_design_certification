@@ -22,4 +22,5 @@ Project for freecodecamp - Responsive Web Design Certification
 18. 18. `value` attribute for radiobutton and checkbox contains the value which is actually sent to the server, when the user clicks submit button.
 19. 19. use `checked` attribute for radio and checkbox, to select these radiobutton / checkbox by default, without user input
 20. 20. `div` element can group set of elements. division. It is like a container of other elements.
+21. 21. declare the doctype of html document so that browsers know which version of html you are using. `<!DOCTYPE html>`
 
