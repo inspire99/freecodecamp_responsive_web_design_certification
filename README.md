@@ -8,4 +8,5 @@ Project for freecodecamp - Responsive Web Design Certification
 4.  4. anchor element - `<a>` allows to access external content, `href` attribute contains hyperlink to external content, and text within anchor element allows user to click
 5.  5. internal linking with `#` : for any html element, we can add attribute as `id` and use this attribute to refer to this html element. And using anchor html element, we can use `href` attribute to point to `#id` of any other html element. This will help in navigating from one section of the html document to another. Internal linking will be helpful , when the document is huge and not visible at once within the device viewport, for example.
 6.  6. nesting of anchor element within a paragraph element is possible 
+7.  7. dead links by using `#` symbol in `href` attribute's value
 
