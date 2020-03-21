@@ -18,4 +18,5 @@ Project for freecodecamp - Responsive Web Design Certification
 14. 14. We can `submit` data from the form element to the server, using a button of type `submit`
 15. 15. We can use `required` attribute, which can be added to `<input>` element so that it is compulsory for user to input something before submitting anything to the server.
 16. 16. we can create radio buttons using `<input type="radio>` and a pair of radio buttons can be grouped, by sharing same `name` attribute. And `<label>` element can have the text corresponding to that radio button.
+17. 17. set of checkboxes can be grouped with `name` attribute and `<label>` element can give text for checkbox.
 
