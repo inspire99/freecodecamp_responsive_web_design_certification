@@ -23,4 +23,5 @@ Project for freecodecamp - Responsive Web Design Certification
 19. 19. use `checked` attribute for radio and checkbox, to select these radiobutton / checkbox by default, without user input
 20. 20. `div` element can group set of elements. division. It is like a container of other elements.
 21. 21. declare the doctype of html document so that browsers know which version of html you are using. `<!DOCTYPE html>`
+22. 22. the `head` element contains meta information about the html document, such as title, meta, link, style information and `body` element contains content of the page.
 
