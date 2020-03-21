@@ -25,3 +25,5 @@ Project for freecodecamp - Responsive Web Design Certification
 21. 21. declare the doctype of html document so that browsers know which version of html you are using. `<!DOCTYPE html>`
 22. 22. the `head` element contains meta information about the html document, such as title, meta, link, style information and `body` element contains content of the page.
 
+![Completed Basic HTML and HTML5](./basic-html-and-html5/define-the-head-and-body-of-an-html-document.png)
+
