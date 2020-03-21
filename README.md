@@ -17,4 +17,5 @@ Project for freecodecamp - Responsive Web Design Certification
 13. 13. form elements accepts user input and submits data to the server. form elements can have attribute as `action`, which submits data to the server. The value of `action` attribute is url within the server.
 14. 14. We can `submit` data from the form element to the server, using a button of type `submit`
 15. 15. We can use `required` attribute, which can be added to `<input>` element so that it is compulsory for user to input something before submitting anything to the server.
+16. 16. we can create radio buttons using `<input type="radio>` and a pair of radio buttons can be grouped, by sharing same `name` attribute. And `<label>` element can have the text corresponding to that radio button.
 
