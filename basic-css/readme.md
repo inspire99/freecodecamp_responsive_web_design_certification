@@ -1,0 +1,1 @@
+CSS or Cascading style sheets tells the browser how to display the content on the website.
